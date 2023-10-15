@@ -22,6 +22,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Boey01&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-## 🏆 GitHub StreakStats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boey01&" alt="boey01" /></p>
