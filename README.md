@@ -1,18 +1,12 @@
-<div align="center">
-<h1>Hiii, I'm Boey Shu Wei 👋</h1>
-<h3>A Computer Science fresh graduate from Malaysia</h3>
+<h1  align="center">Hiii, I'm Boey Shu Wei ...👋</h1>
+<h3 align="center">A Computer Science fresh graduate from Malaysia</h3>
+<br>
 
- ###### 📫 How to reach me **boeyshuwei@gmail.com**
+📫 How to reach me **boeyshuwei@gmail.com**
 
- ###### 📄 More about me : [My Resume](https://drive.google.com/file/d/1c-I2exEkRoUv-ktfpmW3aiWj7AdjW0wL/view?usp=sharing)
+📄 More about me : **[My Resume](https://drive.google.com/file/d/1c-I2exEkRoUv-ktfpmW3aiWj7AdjW0wL/view?usp=sharing)**
 
- ###### 🌐 Final Year Project (Desktop only, offline mode) **https://boey-fyp-iwdat.vercel.app/**
-
-### Connect with me:
-
-
-<a href="https://linkedin.com/in/boey-shu-wei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boeyshuwei" height="30" width="30" /></a>
-
+🌐 Final Year Project (Desktop only, offline mode) **https://boey-fyp-iwdat.vercel.app/**
 
 # ⚙️TechStacks:
 ### Programming languages that I'm familiar with:
@@ -58,4 +52,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Boey01&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-</div>
