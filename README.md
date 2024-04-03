@@ -4,7 +4,7 @@
 
 📫 How to reach me **boeyshuwei@gmail.com**
 
-📄 More about me : **[My Resume](https://drive.google.com/file/d/1c-I2exEkRoUv-ktfpmW3aiWj7AdjW0wL/view?usp=sharing)**
+📄 More about me : **[My Resume](https://drive.google.com/file/d/14Icdx5rsMO5Q2nYs8pyi_qjpkHW4aI5G/view)**
 
 🌐 Final Year Project (Desktop only, offline mode) **https://boey-fyp-iwdat.vercel.app/**
 
